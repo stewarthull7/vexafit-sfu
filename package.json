@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stewarthull7/vexafit-sfu/issues"
   },
-  "homepage": "https://github.com/stewarthull7/vexafit-sfu#readme"
+  "homepage": "https://github.com/stewarthull7/vexafit-sfu#readme",
+  "dependencies": {
+    "mediasoup": "^3.6.5"
+  }
 }
